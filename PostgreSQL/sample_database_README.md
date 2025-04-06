@@ -1,11 +1,7 @@
 # PostgreSQL Sample Database
 
 <div align="center">
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" width="80" height="80">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dewwts/Additional_r/main/pixelmath.png" alt="Pixelmath Logo" width="120" height="40">
+  <img src="https://github.com/user-attachments/assets/1ac78f3b-e5d5-40fa-bbd1-fc39b4fc8822" width="500">
   <p><em>By Pixelmath Education</em></p>
 </div>
 
