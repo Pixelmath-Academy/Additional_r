@@ -1,3 +1,5 @@
+-- From P'Dew@Pixelmath
+
 -- Create sample database for PostgreSQL learning
 -- This script creates tables and inserts sample data
 

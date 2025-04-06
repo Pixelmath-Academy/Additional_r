@@ -1,9 +1,14 @@
 # Data Science Learning Materials
 
 <div align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="150" height="150">
-  <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Logo" width="150" height="150">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn Logo" width="150" height="150">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="80" height="80">
+  <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Logo" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn Logo" width="80" height="80">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dewwts/Additional_r/main/pixelmath.png" alt="Pixelmath Logo" width="120" height="40">
+  <p><em>By Pixelmath Education</em></p>
 </div>
 
 ## Table of Contents

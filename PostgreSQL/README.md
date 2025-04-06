@@ -1,5 +1,14 @@
 # PostgreSQL Learning Materials
 
+<div align="center">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" width="80" height="80">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dewwts/Additional_r/main/pixelmath.png" alt="Pixelmath Logo" width="120" height="40">
+  <p><em>By Pixelmath Education</em></p>
+</div>
+
 This repository contains educational materials and examples for learning PostgreSQL database queries.
 
 ## Contents

@@ -1,9 +1,14 @@
 # Data Science & Database Learning Resources
 
 <div align="center">
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" width="150" height="150">
-  <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Logo" width="150" height="150">
-  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="150" height="150">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" width="80" height="80">
+  <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Logo" width="80" height="80">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="80" height="80">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dewwts/Additional_r/main/pixelmath.png" alt="Pixelmath Logo" width="120" height="40">
+  <p><em>By Pixelmath Education</em></p>
 </div>
 
 ## 📚 Learning Resources
